@@ -4,9 +4,9 @@
 */
 error_reporting(-1);
 ob_start();
-$API_KEY = "توكن"; //توكنك
-$admin = 874820580; //ايديك
-$c = "@yousef_labban"; //قناتك
+$API_KEY = "8663911094:AAEpze9saVy0eegc-XUZ4Z4_fbtLsdkmzz8";
+$admin = 8271807701; //ايديك
+$c = "@Archived_Posts"; //قناتك
 define("API_KEY",$API_KEY);
 function bot($YOUSEEF,$Sauodi=[]){
 $YOUSEEFURL = "https://api.telegram.org/bot".API_KEY."/".$YOUSEEF;
